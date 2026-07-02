@@ -13,7 +13,7 @@ export function Bio() {
           </h2>
           <div className="space-y-4 text-body leading-relaxed">
             <p>
-              P.K. Ambrose, is based in London and a native of Ghana, a West African country
+              Pk Ambrose, is based in London and a native of Ghana, a West African country
               famous for its natural resources and the famous music genre called Hi-Life
               which is believed to be the origin of Jazz and Rock 'N' Roll.
             </p>

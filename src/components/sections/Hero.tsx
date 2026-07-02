@@ -42,7 +42,7 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.4 }}
           className="font-serif text-5xl md:text-7xl lg:text-8xl font-bold text-heading mb-6"
         >
-          P.K. Ambrose
+          Pk Ambrose
         </motion.h1>
 
         <motion.p

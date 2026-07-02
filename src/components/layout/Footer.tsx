@@ -6,7 +6,7 @@ export function Footer() {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
         <div className="text-center md:text-left">
           <p className="font-serif text-lg font-semibold text-heading">
-            PK<span className="text-gold">Ambrose</span>
+            Pk<span className="text-gold">Ambrose</span>
           </p>
           <p className="text-sm text-body mt-1">
             Bass Player & Musical Director — London
@@ -16,7 +16,7 @@ export function Footer() {
         <SocialIcons variant="light" />
 
         <p className="text-sm text-body/60">
-          &copy; {new Date().getFullYear()} PKAmbrose Music. All rights reserved.
+          &copy; {new Date().getFullYear()} Pk Ambrose Music. All rights reserved.
         </p>
       </div>
     </footer>

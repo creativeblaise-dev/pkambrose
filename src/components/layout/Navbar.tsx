@@ -28,7 +28,7 @@ export function Navbar() {
           onClick={() => scrollTo("home")}
           className="font-serif text-[40px] font-semibold text-heading tracking-tight"
         >
-          PK<span className="text-gold">Ambrose</span>
+          Pk <span className="text-gold">Ambrose</span>
         </button>
 
         {/* Desktop nav */}
